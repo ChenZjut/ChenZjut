@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align=center><img  src="./cai.gif"></dev>
+<div align=center><img  src="https://github.com/CarryChang/CarryChang/blob/master/cai.gif"></dev>
